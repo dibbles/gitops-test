@@ -15,6 +15,7 @@ spec:
         app: nginx
         newLabel1: createdInDev
         newLabel2: secondLabelInDev
+        newLabel3: thirdLabelInDev
     spec:
       serviceAccountName: default-main-service-account
       containers:
